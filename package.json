@@ -7,7 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "ts-node-dev": "^1.1.1"
+    "ts-node-dev": "^1.1.1",
+    "tsconfig-paths": "^3.9.0"
   },
   "scripts": {
     "build": "tsc",
